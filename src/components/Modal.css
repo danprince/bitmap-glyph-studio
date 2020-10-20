@@ -1,0 +1,5 @@
+.modal {
+  position: absolute;
+  background: white;
+  border: solid 1px #ccc;
+}
